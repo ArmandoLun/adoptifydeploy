@@ -1,1 +1,1 @@
-web: gunicorn adoptify.wsgi --log-file -
+web: gunicorn Adoptify.wsgi --log-file -
