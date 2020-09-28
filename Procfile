@@ -1,0 +1,1 @@
+web: gunicron adoptify.wsgi --log-file -
